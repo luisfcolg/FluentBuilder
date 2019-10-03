@@ -198,7 +198,7 @@
             this.Controls.Add(this.label1);
             this.Name = "GUI";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Banco";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownSaldo)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownTasa)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
